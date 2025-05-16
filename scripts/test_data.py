@@ -2,6 +2,7 @@
 import pandas as pd
 from pathlib import Path
 import json
+import numpy as np
 
 
 def check_data_quality() -> None:
@@ -38,14 +39,9 @@ def check_data_quality() -> None:
     countries_with_region = df[~df["region"].isna()]
     print(f"Countries with region data: {len(countries_with_region)}")
 
-    # Get countries with complete data (all essential fields)
-    complete_data = df[
-        ~df["country_name"].isna()
-        & ~df["iso_code"].isna()
-        & ~df["homicide_rate"].isna()
-        & ~df["region"].isna()
-    ]
-    print(f"Countries with complete essential data: {len(complete_data)}")
+    # Get countries with basic required data (country name and iso code)
+    suitable_countries = df[~df["country_name"].isna() & ~df["iso_code"].isna()]
+    print(f"Countries with basic required data: {len(suitable_countries)}")
 
     # Get statistics on homicide rates
     if not countries_with_homicide.empty:
@@ -74,15 +70,17 @@ def check_data_quality() -> None:
         for region, count in region_counts.items():
             print(f"  {region}: {count}")
 
-    # Save a list of countries suitable for the game
-    suitable_countries = complete_data.to_dict(orient="records")
+    # Save the countries data for the game
+    # Handle NaN values by converting them to None (which becomes null in JSON)
+    suitable_countries = suitable_countries.replace({np.nan: None})
+    suitable_countries_list = suitable_countries.to_dict(orient="records")
 
-    if suitable_countries:
+    if suitable_countries_list:
         with open(data_dir / "suitable_countries.json", "w") as f:
-            json.dump(suitable_countries, f, indent=2)
+            json.dump(suitable_countries_list, f, indent=2)
 
         print(
-            f"\nSaved {len(suitable_countries)} suitable countries for the game to suitable_countries.json"
+            f"\nSaved {len(suitable_countries_list)} suitable countries for the game to suitable_countries.json"
         )
 
 

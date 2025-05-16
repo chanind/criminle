@@ -13,8 +13,8 @@
     "iso_code": "ALA",
     "region": "Europe",
     "subregion": "Northern Europe",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/al.png"
   },
   {
@@ -67,17 +67,17 @@
     "iso_code": "AIA",
     "region": "Americas",
     "subregion": "Latin America and the Caribbean",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/ai.png"
   },
   {
     "country_name": "Antarctica",
     "iso_code": "ATA",
-    "region": NaN,
-    "subregion": NaN,
-    "homicide_rate": NaN,
-    "year": NaN,
+    "region": null,
+    "subregion": null,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/at.png"
   },
   {
@@ -247,8 +247,8 @@
     "iso_code": "BES",
     "region": "Americas",
     "subregion": "Latin America and the Caribbean",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/be.png"
   },
   {
@@ -274,8 +274,8 @@
     "iso_code": "BVT",
     "region": "Americas",
     "subregion": "Latin America and the Caribbean",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/bv.png"
   },
   {
@@ -292,8 +292,8 @@
     "iso_code": "IOT",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/io.png"
   },
   {
@@ -391,8 +391,8 @@
     "iso_code": "TCD",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/tc.png"
   },
   {
@@ -418,8 +418,8 @@
     "iso_code": "CXR",
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/cx.png"
   },
   {
@@ -427,8 +427,8 @@
     "iso_code": "CCK",
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/cc.png"
   },
   {
@@ -445,8 +445,8 @@
     "iso_code": "COM",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/co.png"
   },
   {
@@ -454,8 +454,8 @@
     "iso_code": "COG",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/co.png"
   },
   {
@@ -463,8 +463,8 @@
     "iso_code": "COD",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/co.png"
   },
   {
@@ -472,8 +472,8 @@
     "iso_code": "COK",
     "region": "Oceania",
     "subregion": "Polynesia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/co.png"
   },
   {
@@ -490,8 +490,8 @@
     "iso_code": "CIV",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/ci.png"
   },
   {
@@ -553,8 +553,8 @@
     "iso_code": "DJI",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/dj.png"
   },
   {
@@ -607,8 +607,8 @@
     "iso_code": "GNQ",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/gn.png"
   },
   {
@@ -652,8 +652,8 @@
     "iso_code": "FLK",
     "region": "Americas",
     "subregion": "Latin America and the Caribbean",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/fl.png"
   },
   {
@@ -661,8 +661,8 @@
     "iso_code": "FRO",
     "region": "Europe",
     "subregion": "Northern Europe",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/fr.png"
   },
   {
@@ -697,8 +697,8 @@
     "iso_code": "GUF",
     "region": "Americas",
     "subregion": "Latin America and the Caribbean",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/gu.png"
   },
   {
@@ -715,8 +715,8 @@
     "iso_code": "ATF",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/at.png"
   },
   {
@@ -724,8 +724,8 @@
     "iso_code": "GAB",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/ga.png"
   },
   {
@@ -733,8 +733,8 @@
     "iso_code": "GMB",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/gm.png"
   },
   {
@@ -805,8 +805,8 @@
     "iso_code": "GLP",
     "region": "Americas",
     "subregion": "Latin America and the Caribbean",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/gl.png"
   },
   {
@@ -832,8 +832,8 @@
     "iso_code": "GGY",
     "region": "Europe",
     "subregion": "Northern Europe",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/gg.png"
   },
   {
@@ -841,8 +841,8 @@
     "iso_code": "GIN",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/gi.png"
   },
   {
@@ -877,8 +877,8 @@
     "iso_code": "HMD",
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/hm.png"
   },
   {
@@ -886,8 +886,8 @@
     "iso_code": "VAT",
     "region": "Europe",
     "subregion": "Southern Europe",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/va.png"
   },
   {
@@ -1021,8 +1021,8 @@
     "iso_code": "JEY",
     "region": "Europe",
     "subregion": "Northern Europe",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/je.png"
   },
   {
@@ -1066,8 +1066,8 @@
     "iso_code": "PRK",
     "region": "Asia",
     "subregion": "Eastern Asia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/pr.png"
   },
   {
@@ -1102,8 +1102,8 @@
     "iso_code": "LAO",
     "region": "Asia",
     "subregion": "South-eastern Asia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/la.png"
   },
   {
@@ -1147,8 +1147,8 @@
     "iso_code": "LBY",
     "region": "Africa",
     "subregion": "Northern Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/lb.png"
   },
   {
@@ -1192,8 +1192,8 @@
     "iso_code": "MDG",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/md.png"
   },
   {
@@ -1228,8 +1228,8 @@
     "iso_code": "MLI",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/ml.png"
   },
   {
@@ -1255,8 +1255,8 @@
     "iso_code": "MTQ",
     "region": "Americas",
     "subregion": "Latin America and the Caribbean",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/mt.png"
   },
   {
@@ -1282,8 +1282,8 @@
     "iso_code": "MYT",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/my.png"
   },
   {
@@ -1345,8 +1345,8 @@
     "iso_code": "MSR",
     "region": "Americas",
     "subregion": "Latin America and the Caribbean",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/ms.png"
   },
   {
@@ -1390,8 +1390,8 @@
     "iso_code": "NRU",
     "region": "Oceania",
     "subregion": "Micronesia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/nr.png"
   },
   {
@@ -1462,8 +1462,8 @@
     "iso_code": "NIU",
     "region": "Oceania",
     "subregion": "Polynesia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/ni.png"
   },
   {
@@ -1471,8 +1471,8 @@
     "iso_code": "NFK",
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/nf.png"
   },
   {
@@ -1489,8 +1489,8 @@
     "iso_code": "MNP",
     "region": "Oceania",
     "subregion": "Micronesia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/mn.png"
   },
   {
@@ -1534,8 +1534,8 @@
     "iso_code": "PSE",
     "region": "Asia",
     "subregion": "Western Asia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/ps.png"
   },
   {
@@ -1588,8 +1588,8 @@
     "iso_code": "PCN",
     "region": "Oceania",
     "subregion": "Polynesia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/pc.png"
   },
   {
@@ -1633,8 +1633,8 @@
     "iso_code": "REU",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/re.png"
   },
   {
@@ -1669,8 +1669,8 @@
     "iso_code": "BLM",
     "region": "Americas",
     "subregion": "Latin America and the Caribbean",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/bl.png"
   },
   {
@@ -1678,8 +1678,8 @@
     "iso_code": "SHN",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/sh.png"
   },
   {
@@ -1714,8 +1714,8 @@
     "iso_code": "SPM",
     "region": "Americas",
     "subregion": "Northern America",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/sp.png"
   },
   {
@@ -1813,8 +1813,8 @@
     "iso_code": "SXM",
     "region": "Americas",
     "subregion": "Latin America and the Caribbean",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/sx.png"
   },
   {
@@ -1849,8 +1849,8 @@
     "iso_code": "SOM",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/so.png"
   },
   {
@@ -1867,8 +1867,8 @@
     "iso_code": "SGS",
     "region": "Americas",
     "subregion": "Latin America and the Caribbean",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/sg.png"
   },
   {
@@ -1921,8 +1921,8 @@
     "iso_code": "SJM",
     "region": "Europe",
     "subregion": "Northern Europe",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/sj.png"
   },
   {
@@ -1955,10 +1955,10 @@
   {
     "country_name": "Taiwan, Province of China",
     "iso_code": "TWN",
-    "region": NaN,
-    "subregion": NaN,
-    "homicide_rate": NaN,
-    "year": NaN,
+    "region": null,
+    "subregion": null,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/tw.png"
   },
   {
@@ -2002,8 +2002,8 @@
     "iso_code": "TGO",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/tg.png"
   },
   {
@@ -2011,8 +2011,8 @@
     "iso_code": "TKL",
     "region": "Oceania",
     "subregion": "Polynesia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/tk.png"
   },
   {
@@ -2056,8 +2056,8 @@
     "iso_code": "TKM",
     "region": "Asia",
     "subregion": "Central Asia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/tk.png"
   },
   {
@@ -2065,8 +2065,8 @@
     "iso_code": "TCA",
     "region": "Americas",
     "subregion": "Latin America and the Caribbean",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/tc.png"
   },
   {
@@ -2074,8 +2074,8 @@
     "iso_code": "TUV",
     "region": "Oceania",
     "subregion": "Polynesia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/tu.png"
   },
   {
@@ -2083,8 +2083,8 @@
     "iso_code": "UGA",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/ug.png"
   },
   {
@@ -2092,8 +2092,8 @@
     "iso_code": "UKR",
     "region": "Europe",
     "subregion": "Eastern Europe",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/uk.png"
   },
   {
@@ -2101,8 +2101,8 @@
     "iso_code": "ARE",
     "region": "Asia",
     "subregion": "Western Asia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/ar.png"
   },
   {
@@ -2110,8 +2110,8 @@
     "iso_code": "GBR",
     "region": "Europe",
     "subregion": "Northern Europe",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/gb.png"
   },
   {
@@ -2119,8 +2119,8 @@
     "iso_code": "USA",
     "region": "Americas",
     "subregion": "Northern America",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/us.png"
   },
   {
@@ -2128,8 +2128,8 @@
     "iso_code": "UMI",
     "region": "Oceania",
     "subregion": "Micronesia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/um.png"
   },
   {
@@ -2137,8 +2137,8 @@
     "iso_code": "URY",
     "region": "Americas",
     "subregion": "Latin America and the Caribbean",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/ur.png"
   },
   {
@@ -2146,8 +2146,8 @@
     "iso_code": "UZB",
     "region": "Asia",
     "subregion": "Central Asia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/uz.png"
   },
   {
@@ -2155,8 +2155,8 @@
     "iso_code": "VUT",
     "region": "Oceania",
     "subregion": "Melanesia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/vu.png"
   },
   {
@@ -2164,8 +2164,8 @@
     "iso_code": "VEN",
     "region": "Americas",
     "subregion": "Latin America and the Caribbean",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/ve.png"
   },
   {
@@ -2173,8 +2173,8 @@
     "iso_code": "VNM",
     "region": "Asia",
     "subregion": "South-eastern Asia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/vn.png"
   },
   {
@@ -2191,8 +2191,8 @@
     "iso_code": "VIR",
     "region": "Americas",
     "subregion": "Latin America and the Caribbean",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/vi.png"
   },
   {
@@ -2200,8 +2200,8 @@
     "iso_code": "WLF",
     "region": "Oceania",
     "subregion": "Polynesia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/wl.png"
   },
   {
@@ -2209,8 +2209,8 @@
     "iso_code": "ESH",
     "region": "Africa",
     "subregion": "Northern Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/es.png"
   },
   {
@@ -2218,8 +2218,8 @@
     "iso_code": "YEM",
     "region": "Asia",
     "subregion": "Western Asia",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/ye.png"
   },
   {
@@ -2227,8 +2227,8 @@
     "iso_code": "ZMB",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/zm.png"
   },
   {
@@ -2236,8 +2236,8 @@
     "iso_code": "ZWE",
     "region": "Africa",
     "subregion": "Sub-Saharan Africa",
-    "homicide_rate": NaN,
-    "year": NaN,
+    "homicide_rate": null,
+    "year": null,
     "flag_url": "https://flagcdn.com/w320/zw.png"
   }
 ]
