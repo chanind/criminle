@@ -54,6 +54,12 @@ const customStyles: StylesConfig<OptionType, false> = {
     backgroundColor: "#16213e",
     border: "1px solid #0f3460",
     boxShadow: "0 4px 8px rgba(0, 0, 0, 0.3)",
+    zIndex: 9999,
+  }),
+  menuPortal: (provided) => ({
+    ...provided,
+    zIndex: 9999,
+    backgroundColor: "#0f0f1b",
   }),
   option: (provided, state) => ({
     ...provided,
@@ -134,6 +140,9 @@ const CountrySelector: React.FC<CountrySelectorProps> = ({
           options.find((option) => option.country === selectedCountry) || null
         }
         styles={customStyles}
+        classNamePrefix="ReactSelect"
+        menuPortalTarget={document.body}
+        menuPosition="fixed"
       />
       <SubmitButton
         onClick={handleSubmit}
