@@ -32,9 +32,15 @@ const StatLabel = styled.div`
   color: #cccccc;
 `;
 
-const StatValue = styled.div`
+interface StatValueProps {
+  isUnknown?: boolean;
+}
+
+const StatValue = styled.div<StatValueProps>`
   font-size: 1.25rem;
-  color: white;
+  color: ${(props) => (props.isUnknown ? "#6c757d" : "white")};
+  font-style: ${(props) => (props.isUnknown ? "italic" : "normal")};
+  opacity: ${(props) => (props.isUnknown ? 0.7 : 1)};
 `;
 
 interface RevealProps {
@@ -97,6 +103,9 @@ const GameStats: React.FC<GameStatsProps> = ({
     return <div>Loading...</div>;
   }
 
+  const isHomicideUnknown = targetCountry.homicide_rate === null;
+  const isYearUnknown = targetCountry.year === null;
+
   return (
     <StatsContainer>
       <StatTitle>Country Crime Statistics</StatTitle>
@@ -104,10 +113,10 @@ const GameStats: React.FC<GameStatsProps> = ({
       <StatsGrid>
         <StatItem>
           <StatLabel>Homicide Rate (per 100,000)</StatLabel>
-          <StatValue>
-            {targetCountry.homicide_rate !== null
-              ? targetCountry.homicide_rate.toFixed(2)
-              : "Unknown"}
+          <StatValue isUnknown={isHomicideUnknown}>
+            {isHomicideUnknown
+              ? "Unknown"
+              : targetCountry.homicide_rate!.toFixed(2)}
           </StatValue>
         </StatItem>
 
@@ -133,8 +142,8 @@ const GameStats: React.FC<GameStatsProps> = ({
 
         <StatItem>
           <StatLabel>Data Year</StatLabel>
-          <StatValue>
-            {targetCountry.year !== null ? targetCountry.year : "Unknown"}
+          <StatValue isUnknown={isYearUnknown}>
+            {isYearUnknown ? "Unknown" : targetCountry.year}
           </StatValue>
         </StatItem>
       </StatsGrid>

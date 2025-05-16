@@ -41,22 +41,26 @@ const CountryFlag = styled.img`
   border: 1px solid #ccc;
 `;
 
-const StatIndicator = styled.div<{ hint: string }>`
+const StatIndicator = styled.div<{ hint: string; isUnknown?: boolean }>`
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 0.25rem;
   border-radius: 4px;
-  color: ${({ hint }) => {
+  color: ${({ hint, isUnknown }) => {
+    if (isUnknown) return "#6c757d"; // Faded gray color for unknown values
     if (hint === "exact") return "#4caf50";
     if (hint === "close") return "#ffc107";
     return "#fff";
   }};
-  background-color: ${({ hint }) => {
+  background-color: ${({ hint, isUnknown }) => {
+    if (isUnknown) return "transparent";
     if (hint === "exact") return "#4caf5033";
     if (hint === "close") return "#ffc10733";
     return "transparent";
   }};
+  font-style: ${({ isUnknown }) => (isUnknown ? "italic" : "normal")};
+  opacity: ${({ isUnknown }) => (isUnknown ? 0.7 : 1)};
 `;
 
 const ArrowIcon = styled.span`
@@ -98,7 +102,7 @@ const StatHint: React.FC<{ hint: string; value: number | null }> = ({
   hint,
   value,
 }) => (
-  <StatIndicator hint={hint}>
+  <StatIndicator hint={hint} isUnknown={value === null}>
     {value === null ? (
       <span>Unknown</span>
     ) : hint === "exact" ? (
