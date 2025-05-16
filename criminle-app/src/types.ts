@@ -3,8 +3,8 @@ export interface Country {
   iso_code: string;
   region: string;
   subregion: string;
-  homicide_rate: number;
-  year: number;
+  homicide_rate: number | null;
+  year: number | null;
   flag_url: string;
   // Derived crime statistics
   property_crime_index: number;

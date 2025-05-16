@@ -104,7 +104,11 @@ const GameStats: React.FC<GameStatsProps> = ({
       <StatsGrid>
         <StatItem>
           <StatLabel>Homicide Rate (per 100,000)</StatLabel>
-          <StatValue>{targetCountry.homicide_rate.toFixed(2)}</StatValue>
+          <StatValue>
+            {targetCountry.homicide_rate !== null
+              ? targetCountry.homicide_rate.toFixed(2)
+              : "Unknown"}
+          </StatValue>
         </StatItem>
 
         <StatItem>
@@ -129,7 +133,9 @@ const GameStats: React.FC<GameStatsProps> = ({
 
         <StatItem>
           <StatLabel>Data Year</StatLabel>
-          <StatValue>{targetCountry.year}</StatValue>
+          <StatValue>
+            {targetCountry.year !== null ? targetCountry.year : "Unknown"}
+          </StatValue>
         </StatItem>
       </StatsGrid>
 

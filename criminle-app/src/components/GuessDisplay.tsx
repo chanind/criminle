@@ -94,12 +94,14 @@ interface GuessDisplayProps {
 }
 
 // Helper component for rendering stat hints
-const StatHint: React.FC<{ hint: string; value: number }> = ({
+const StatHint: React.FC<{ hint: string; value: number | null }> = ({
   hint,
   value,
 }) => (
   <StatIndicator hint={hint}>
-    {hint === "exact" ? (
+    {value === null ? (
+      <span>Unknown</span>
+    ) : hint === "exact" ? (
       <span>✓ {value.toFixed(1)}</span>
     ) : hint === "close" ? (
       <span>≈ {value.toFixed(1)}</span>

@@ -54,9 +54,19 @@ export const evaluateGuess = (
 
 // Calculate hints for any numeric statistic
 const calculateStatHint = (
-  guessValue: number,
-  targetValue: number
+  guessValue: number | null,
+  targetValue: number | null
 ): "higher" | "lower" | "close" | "exact" => {
+  // If either value is null or NaN, treat them as equal but unknown
+  if (
+    guessValue === null ||
+    targetValue === null ||
+    isNaN(guessValue as number) ||
+    isNaN(targetValue as number)
+  ) {
+    return "exact";
+  }
+
   if (guessValue === targetValue) {
     return "exact";
   }
@@ -75,8 +85,13 @@ const calculateStatHint = (
 
 // Select a random country from the available countries
 export const selectRandomCountry = (countries: Country[]): Country => {
-  const randomIndex = Math.floor(Math.random() * countries.length);
-  return countries[randomIndex];
+  // Filter countries that have at least a name and ISO code
+  const validCountries = countries.filter(
+    (country) => country.country_name && country.iso_code
+  );
+
+  const randomIndex = Math.floor(Math.random() * validCountries.length);
+  return validCountries[randomIndex];
 };
 
 // Calculate a simple distance metric between countries
@@ -91,11 +106,18 @@ const calculateDistance = (country1: Country, country2: Country): number => {
   }
 
   // Crime statistics comparison (normalize the differences)
-  const homicideRateDiff = Math.abs(
-    country1.homicide_rate - country2.homicide_rate
-  );
-  const maxRate = Math.max(50, country1.homicide_rate, country2.homicide_rate); // Use 50 as a rough max for normalization
-  distance += (homicideRateDiff / maxRate) * 5;
+  // Only compare homicide rates if both countries have them
+  if (country1.homicide_rate != null && country2.homicide_rate != null) {
+    const homicideRateDiff = Math.abs(
+      country1.homicide_rate - country2.homicide_rate
+    );
+    const maxRate = Math.max(
+      50,
+      country1.homicide_rate,
+      country2.homicide_rate
+    ); // Use 50 as a rough max for normalization
+    distance += (homicideRateDiff / maxRate) * 5;
+  }
 
   // Add distances for other crime statistics
   const propertyDiff = Math.abs(
@@ -114,8 +136,11 @@ const calculateDistance = (country1: Country, country2: Country): number => {
 
 // Generate derived crime statistics from homicide rate
 export const generateCrimeStats = (country: Country): Country => {
-  // Use homicide rate as a base to create other statistics with some randomness
-  const baseRate = country.homicide_rate;
+  // Default homicide rate of 5.0 if missing (world average is around 5-6)
+  const baseRate = country.homicide_rate != null ? country.homicide_rate : 5.0;
+
+  // Set a flag if homicide rate was unknown
+  const isHomicideUnknown = country.homicide_rate == null;
 
   // Property crime tends to be higher than homicide but correlated
   const propertyFactor = Math.random() * 2 + 3; // Between 3-5x homicide rate
@@ -143,6 +168,8 @@ export const generateCrimeStats = (country: Country): Country => {
 
   return {
     ...country,
+    // If homicide rate was unknown, keep it as null/undefined
+    homicide_rate: isHomicideUnknown ? null : country.homicide_rate,
     property_crime_index,
     robbery_rate,
     safety_index,
