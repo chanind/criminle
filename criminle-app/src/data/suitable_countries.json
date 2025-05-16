@@ -1,0 +1,1586 @@
+[
+  {
+    "country_name": "Afghanistan",
+    "iso_code": "AFG",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "homicide_rate": 4.02249785795131,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/af.png"
+  },
+  {
+    "country_name": "Albania",
+    "iso_code": "ALB",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "homicide_rate": 2.31196864129807,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/al.png"
+  },
+  {
+    "country_name": "Algeria",
+    "iso_code": "DZA",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "homicide_rate": 1.57318234314011,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/dz.png"
+  },
+  {
+    "country_name": "American Samoa",
+    "iso_code": "ASM",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "homicide_rate": 0.0,
+    "year": 2019.0,
+    "flag_url": "https://flagcdn.com/w320/as.png"
+  },
+  {
+    "country_name": "Andorra",
+    "iso_code": "AND",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "homicide_rate": 2.57400257400257,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/an.png"
+  },
+  {
+    "country_name": "Angola",
+    "iso_code": "AGO",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 4.10224812286562,
+    "year": 2016.0,
+    "flag_url": "https://flagcdn.com/w320/ag.png"
+  },
+  {
+    "country_name": "Antigua and Barbuda",
+    "iso_code": "ATG",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 17.1637908377539,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/at.png"
+  },
+  {
+    "country_name": "Argentina",
+    "iso_code": "ARG",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 4.62267855620475,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ar.png"
+  },
+  {
+    "country_name": "Armenia",
+    "iso_code": "ARM",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "homicide_rate": 2.18561731238222,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ar.png"
+  },
+  {
+    "country_name": "Aruba",
+    "iso_code": "ABW",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 1.93061374210862,
+    "year": 2014.0,
+    "flag_url": "https://flagcdn.com/w320/ab.png"
+  },
+  {
+    "country_name": "Australia",
+    "iso_code": "AUS",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "homicide_rate": 0.744567483256587,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/au.png"
+  },
+  {
+    "country_name": "Austria",
+    "iso_code": "AUT",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "homicide_rate": 0.728529506902089,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/au.png"
+  },
+  {
+    "country_name": "Azerbaijan",
+    "iso_code": "AZE",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "homicide_rate": 1.91021189583004,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/az.png"
+  },
+  {
+    "country_name": "Bahamas",
+    "iso_code": "BHS",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 29.1734237464315,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/bh.png"
+  },
+  {
+    "country_name": "Bahrain",
+    "iso_code": "BHR",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "homicide_rate": 0.0683402977791795,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/bh.png"
+  },
+  {
+    "country_name": "Bangladesh",
+    "iso_code": "BGD",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "homicide_rate": 2.33987499251454,
+    "year": 2018.0,
+    "flag_url": "https://flagcdn.com/w320/bg.png"
+  },
+  {
+    "country_name": "Barbados",
+    "iso_code": "BRB",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 11.3798210878753,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/br.png"
+  },
+  {
+    "country_name": "Belarus",
+    "iso_code": "BLR",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "homicide_rate": 2.32582876256296,
+    "year": 2019.0,
+    "flag_url": "https://flagcdn.com/w320/bl.png"
+  },
+  {
+    "country_name": "Belgium",
+    "iso_code": "BEL",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "homicide_rate": 1.07652643158746,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/be.png"
+  },
+  {
+    "country_name": "Belize",
+    "iso_code": "BLZ",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 31.2475783126808,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/bl.png"
+  },
+  {
+    "country_name": "Benin",
+    "iso_code": "BEN",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 1.1274974068,
+    "year": 2017.0,
+    "flag_url": "https://flagcdn.com/w320/be.png"
+  },
+  {
+    "country_name": "Bermuda",
+    "iso_code": "BMU",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "homicide_rate": 10.9059749162577,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/bm.png"
+  },
+  {
+    "country_name": "Bhutan",
+    "iso_code": "BTN",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "homicide_rate": 2.45952782243763,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/bt.png"
+  },
+  {
+    "country_name": "Bolivia, Plurinational State of",
+    "iso_code": "BOL",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 3.49353018078936,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/bo.png"
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "iso_code": "BIH",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "homicide_rate": 0.978311147580377,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/bi.png"
+  },
+  {
+    "country_name": "Botswana",
+    "iso_code": "BWA",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 10.5469623782512,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/bw.png"
+  },
+  {
+    "country_name": "Brazil",
+    "iso_code": "BRA",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 22.384065397269,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/br.png"
+  },
+  {
+    "country_name": "Brunei Darussalam",
+    "iso_code": "BRN",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "homicide_rate": 0.485787674352233,
+    "year": 2013.0,
+    "flag_url": "https://flagcdn.com/w320/br.png"
+  },
+  {
+    "country_name": "Bulgaria",
+    "iso_code": "BGR",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "homicide_rate": 1.27797986237754,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/bg.png"
+  },
+  {
+    "country_name": "Burkina Faso",
+    "iso_code": "BFA",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 1.25044051977478,
+    "year": 2017.0,
+    "flag_url": "https://flagcdn.com/w320/bf.png"
+  },
+  {
+    "country_name": "Burundi",
+    "iso_code": "BDI",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 5.82391017787918,
+    "year": 2016.0,
+    "flag_url": "https://flagcdn.com/w320/bd.png"
+  },
+  {
+    "country_name": "Cabo Verde",
+    "iso_code": "CPV",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 6.17877248386654,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/cp.png"
+  },
+  {
+    "country_name": "Cambodia",
+    "iso_code": "KHM",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "homicide_rate": 1.83890574952752,
+    "year": 2011.0,
+    "flag_url": "https://flagcdn.com/w320/kh.png"
+  },
+  {
+    "country_name": "Cameroon",
+    "iso_code": "CMR",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 4.53737524129107,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/cm.png"
+  },
+  {
+    "country_name": "Canada",
+    "iso_code": "CAN",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "homicide_rate": 2.06525947364399,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ca.png"
+  },
+  {
+    "country_name": "Cayman Islands",
+    "iso_code": "CYM",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 4.45695693836771,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/cy.png"
+  },
+  {
+    "country_name": "Central African Republic",
+    "iso_code": "CAF",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 20.120400654,
+    "year": 2016.0,
+    "flag_url": "https://flagcdn.com/w320/ca.png"
+  },
+  {
+    "country_name": "Chile",
+    "iso_code": "CHL",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 3.63203867485069,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ch.png"
+  },
+  {
+    "country_name": "China",
+    "iso_code": "CHN",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "homicide_rate": 0.502270364156281,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/ch.png"
+  },
+  {
+    "country_name": "Colombia",
+    "iso_code": "COL",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 27.4843651251417,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/co.png"
+  },
+  {
+    "country_name": "Costa Rica",
+    "iso_code": "CRI",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 11.4087098514792,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/cr.png"
+  },
+  {
+    "country_name": "Croatia",
+    "iso_code": "HRV",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "homicide_rate": 0.812780755716158,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/hr.png"
+  },
+  {
+    "country_name": "Cuba",
+    "iso_code": "CUB",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 4.4182505026975,
+    "year": 2019.0,
+    "flag_url": "https://flagcdn.com/w320/cu.png"
+  },
+  {
+    "country_name": "Cura\u00e7ao",
+    "iso_code": "CUW",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 17.0918258342947,
+    "year": 2007.0,
+    "flag_url": "https://flagcdn.com/w320/cu.png"
+  },
+  {
+    "country_name": "Cyprus",
+    "iso_code": "CYP",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "homicide_rate": 1.28597928930355,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/cy.png"
+  },
+  {
+    "country_name": "Czechia",
+    "iso_code": "CZE",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "homicide_rate": 0.447161218411568,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/cz.png"
+  },
+  {
+    "country_name": "Denmark",
+    "iso_code": "DNK",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "homicide_rate": 0.802836849630622,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/dn.png"
+  },
+  {
+    "country_name": "Dominica",
+    "iso_code": "DMA",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 13.8097704125669,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/dm.png"
+  },
+  {
+    "country_name": "Dominican Republic",
+    "iso_code": "DOM",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 10.5415842337116,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/do.png"
+  },
+  {
+    "country_name": "Ecuador",
+    "iso_code": "ECU",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 14.0242548813931,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ec.png"
+  },
+  {
+    "country_name": "Egypt",
+    "iso_code": "EGY",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "homicide_rate": 1.33609216061138,
+    "year": 2017.0,
+    "flag_url": "https://flagcdn.com/w320/eg.png"
+  },
+  {
+    "country_name": "El Salvador",
+    "iso_code": "SLV",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 18.1654984604067,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/sl.png"
+  },
+  {
+    "country_name": "Eritrea",
+    "iso_code": "ERI",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 14.572974940632,
+    "year": 2012.0,
+    "flag_url": "https://flagcdn.com/w320/er.png"
+  },
+  {
+    "country_name": "Estonia",
+    "iso_code": "EST",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "homicide_rate": 1.95679840686505,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/es.png"
+  },
+  {
+    "country_name": "Eswatini",
+    "iso_code": "SWZ",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 12.6649058812971,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/sw.png"
+  },
+  {
+    "country_name": "Ethiopia",
+    "iso_code": "ETH",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 8.6319635299382,
+    "year": 2012.0,
+    "flag_url": "https://flagcdn.com/w320/et.png"
+  },
+  {
+    "country_name": "Fiji",
+    "iso_code": "FJI",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "homicide_rate": 2.17291633620231,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/fj.png"
+  },
+  {
+    "country_name": "Finland",
+    "iso_code": "FIN",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "homicide_rate": 1.64572794344772,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/fi.png"
+  },
+  {
+    "country_name": "France",
+    "iso_code": "FRA",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "homicide_rate": 1.13742999459302,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/fr.png"
+  },
+  {
+    "country_name": "French Polynesia",
+    "iso_code": "PYF",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "homicide_rate": 0.35425504592031,
+    "year": 2009.0,
+    "flag_url": "https://flagcdn.com/w320/py.png"
+  },
+  {
+    "country_name": "Georgia",
+    "iso_code": "GEO",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "homicide_rate": 2.04200131510189,
+    "year": 2019.0,
+    "flag_url": "https://flagcdn.com/w320/ge.png"
+  },
+  {
+    "country_name": "Germany",
+    "iso_code": "DEU",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "homicide_rate": 0.833247865481232,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/de.png"
+  },
+  {
+    "country_name": "Ghana",
+    "iso_code": "GHA",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 1.8365651066975,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/gh.png"
+  },
+  {
+    "country_name": "Gibraltar",
+    "iso_code": "GIB",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "homicide_rate": 3.19877167167808,
+    "year": 2010.0,
+    "flag_url": "https://flagcdn.com/w320/gi.png"
+  },
+  {
+    "country_name": "Greece",
+    "iso_code": "GRC",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "homicide_rate": 0.852052561112034,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/gr.png"
+  },
+  {
+    "country_name": "Greenland",
+    "iso_code": "GRL",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "homicide_rate": 5.36519064310752,
+    "year": 2016.0,
+    "flag_url": "https://flagcdn.com/w320/gr.png"
+  },
+  {
+    "country_name": "Grenada",
+    "iso_code": "GRD",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 4.01251905946553,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/gr.png"
+  },
+  {
+    "country_name": "Guam",
+    "iso_code": "GUM",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "homicide_rate": 4.15124774646551,
+    "year": 2019.0,
+    "flag_url": "https://flagcdn.com/w320/gu.png"
+  },
+  {
+    "country_name": "Guatemala",
+    "iso_code": "GTM",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 19.9903643036608,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/gt.png"
+  },
+  {
+    "country_name": "Guinea-Bissau",
+    "iso_code": "GNB",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 1.1171243729142,
+    "year": 2017.0,
+    "flag_url": "https://flagcdn.com/w320/gn.png"
+  },
+  {
+    "country_name": "Guyana",
+    "iso_code": "GUY",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 16.2820498479306,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/gu.png"
+  },
+  {
+    "country_name": "Haiti",
+    "iso_code": "HTI",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 13.0071284130281,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ht.png"
+  },
+  {
+    "country_name": "Honduras",
+    "iso_code": "HND",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 38.3427468944297,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/hn.png"
+  },
+  {
+    "country_name": "Hong Kong",
+    "iso_code": "HKG",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "homicide_rate": 0.306888506138137,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/hk.png"
+  },
+  {
+    "country_name": "Hungary",
+    "iso_code": "HUN",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "homicide_rate": 0.772416611447461,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/hu.png"
+  },
+  {
+    "country_name": "Iceland",
+    "iso_code": "ISL",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "homicide_rate": 0.540051574925405,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/is.png"
+  },
+  {
+    "country_name": "India",
+    "iso_code": "IND",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "homicide_rate": 2.93627889313173,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/in.png"
+  },
+  {
+    "country_name": "Indonesia",
+    "iso_code": "IDN",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "homicide_rate": 0.628046750109353,
+    "year": 2004.0,
+    "flag_url": "https://flagcdn.com/w320/id.png"
+  },
+  {
+    "country_name": "Iran, Islamic Republic of",
+    "iso_code": "IRN",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "homicide_rate": 2.42115997774534,
+    "year": 2014.0,
+    "flag_url": "https://flagcdn.com/w320/ir.png"
+  },
+  {
+    "country_name": "Iraq",
+    "iso_code": "IRQ",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "homicide_rate": 9.41045845208612,
+    "year": 2013.0,
+    "flag_url": "https://flagcdn.com/w320/ir.png"
+  },
+  {
+    "country_name": "Ireland",
+    "iso_code": "IRL",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "homicide_rate": 0.441188915890542,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ir.png"
+  },
+  {
+    "country_name": "Isle of Man",
+    "iso_code": "IMN",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "homicide_rate": 0.0,
+    "year": 2016.0,
+    "flag_url": "https://flagcdn.com/w320/im.png"
+  },
+  {
+    "country_name": "Israel",
+    "iso_code": "ISR",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "homicide_rate": 1.94380733880528,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/is.png"
+  },
+  {
+    "country_name": "Italy",
+    "iso_code": "ITA",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "homicide_rate": 0.511475885697091,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/it.png"
+  },
+  {
+    "country_name": "Jamaica",
+    "iso_code": "JAM",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 52.1272718817397,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ja.png"
+  },
+  {
+    "country_name": "Japan",
+    "iso_code": "JPN",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "homicide_rate": 0.228708941914955,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/jp.png"
+  },
+  {
+    "country_name": "Jordan",
+    "iso_code": "JOR",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "homicide_rate": 1.02257949714653,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/jo.png"
+  },
+  {
+    "country_name": "Kazakhstan",
+    "iso_code": "KAZ",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "homicide_rate": 3.19296191107306,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/ka.png"
+  },
+  {
+    "country_name": "Kenya",
+    "iso_code": "KEN",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 5.27491295544657,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ke.png"
+  },
+  {
+    "country_name": "Kiribati",
+    "iso_code": "KIR",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "homicide_rate": 7.16733487132394,
+    "year": 2012.0,
+    "flag_url": "https://flagcdn.com/w320/ki.png"
+  },
+  {
+    "country_name": "Korea, Republic of",
+    "iso_code": "KOR",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "homicide_rate": 0.520932425050992,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ko.png"
+  },
+  {
+    "country_name": "Kuwait",
+    "iso_code": "KWT",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "homicide_rate": 0.252267859389106,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/kw.png"
+  },
+  {
+    "country_name": "Kyrgyzstan",
+    "iso_code": "KGZ",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "homicide_rate": 1.74734308054439,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/kg.png"
+  },
+  {
+    "country_name": "Latvia",
+    "iso_code": "LVA",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "homicide_rate": 3.04175367238392,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/lv.png"
+  },
+  {
+    "country_name": "Lebanon",
+    "iso_code": "LBN",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "homicide_rate": 2.26031660148685,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/lb.png"
+  },
+  {
+    "country_name": "Lesotho",
+    "iso_code": "LSO",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 37.6939805169238,
+    "year": 2008.0,
+    "flag_url": "https://flagcdn.com/w320/ls.png"
+  },
+  {
+    "country_name": "Liberia",
+    "iso_code": "LBR",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 3.11653017995884,
+    "year": 2012.0,
+    "flag_url": "https://flagcdn.com/w320/lb.png"
+  },
+  {
+    "country_name": "Liechtenstein",
+    "iso_code": "LIE",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "homicide_rate": 5.12301643207521,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/li.png"
+  },
+  {
+    "country_name": "Lithuania",
+    "iso_code": "LTU",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "homicide_rate": 2.58374704685787,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/lt.png"
+  },
+  {
+    "country_name": "Luxembourg",
+    "iso_code": "LUX",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "homicide_rate": 0.625663790177391,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/lu.png"
+  },
+  {
+    "country_name": "Macao",
+    "iso_code": "MAC",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "homicide_rate": 0.436931170232753,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ma.png"
+  },
+  {
+    "country_name": "Malawi",
+    "iso_code": "MWI",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 1.79061366095103,
+    "year": 2012.0,
+    "flag_url": "https://flagcdn.com/w320/mw.png"
+  },
+  {
+    "country_name": "Malaysia",
+    "iso_code": "MYS",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "homicide_rate": 0.723777076243526,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/my.png"
+  },
+  {
+    "country_name": "Maldives",
+    "iso_code": "MDV",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "homicide_rate": 0.594638737145893,
+    "year": 2019.0,
+    "flag_url": "https://flagcdn.com/w320/md.png"
+  },
+  {
+    "country_name": "Malta",
+    "iso_code": "MLT",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "homicide_rate": 0.379688200050119,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ml.png"
+  },
+  {
+    "country_name": "Marshall Islands",
+    "iso_code": "MHL",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "homicide_rate": 4.01288134913071,
+    "year": 1994.0,
+    "flag_url": "https://flagcdn.com/w320/mh.png"
+  },
+  {
+    "country_name": "Mauritania",
+    "iso_code": "MRT",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 1.02253955032934,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/mr.png"
+  },
+  {
+    "country_name": "Mauritius",
+    "iso_code": "MUS",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 2.6175702865739,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/mu.png"
+  },
+  {
+    "country_name": "Mexico",
+    "iso_code": "MEX",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 28.1756529873319,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/me.png"
+  },
+  {
+    "country_name": "Micronesia, Federated States of",
+    "iso_code": "FSM",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "homicide_rate": 0.897839349605175,
+    "year": 2019.0,
+    "flag_url": "https://flagcdn.com/w320/fs.png"
+  },
+  {
+    "country_name": "Moldova, Republic of",
+    "iso_code": "MDA",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "homicide_rate": 3.01473622516773,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/md.png"
+  },
+  {
+    "country_name": "Monaco",
+    "iso_code": "MCO",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "homicide_rate": 0.0,
+    "year": 2008.0,
+    "flag_url": "https://flagcdn.com/w320/mc.png"
+  },
+  {
+    "country_name": "Mongolia",
+    "iso_code": "MNG",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "homicide_rate": 6.15332686636602,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/mn.png"
+  },
+  {
+    "country_name": "Montenegro",
+    "iso_code": "MNE",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "homicide_rate": 2.38907333419871,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/mn.png"
+  },
+  {
+    "country_name": "Morocco",
+    "iso_code": "MAR",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "homicide_rate": 1.93113796660531,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ma.png"
+  },
+  {
+    "country_name": "Mozambique",
+    "iso_code": "MOZ",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 3.57316901076795,
+    "year": 2011.0,
+    "flag_url": "https://flagcdn.com/w320/mo.png"
+  },
+  {
+    "country_name": "Myanmar",
+    "iso_code": "MMR",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "homicide_rate": 28.4378154764971,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/mm.png"
+  },
+  {
+    "country_name": "Namibia",
+    "iso_code": "NAM",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 12.4498522913953,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/na.png"
+  },
+  {
+    "country_name": "Nepal",
+    "iso_code": "NPL",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "homicide_rate": 2.28561554791537,
+    "year": 2019.0,
+    "flag_url": "https://flagcdn.com/w320/np.png"
+  },
+  {
+    "country_name": "Netherlands, Kingdom of the",
+    "iso_code": "NLD",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "homicide_rate": 0.651365463420387,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/nl.png"
+  },
+  {
+    "country_name": "New Caledonia",
+    "iso_code": "NCL",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "homicide_rate": 3.1131251301189,
+    "year": 2009.0,
+    "flag_url": "https://flagcdn.com/w320/nc.png"
+  },
+  {
+    "country_name": "New Zealand",
+    "iso_code": "NZL",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "homicide_rate": 2.60131307831324,
+    "year": 2019.0,
+    "flag_url": "https://flagcdn.com/w320/nz.png"
+  },
+  {
+    "country_name": "Nicaragua",
+    "iso_code": "NIC",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 11.0064316097709,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ni.png"
+  },
+  {
+    "country_name": "Niger",
+    "iso_code": "NER",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 4.38889460398219,
+    "year": 2012.0,
+    "flag_url": "https://flagcdn.com/w320/ne.png"
+  },
+  {
+    "country_name": "Nigeria",
+    "iso_code": "NGA",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 21.7407887419939,
+    "year": 2019.0,
+    "flag_url": "https://flagcdn.com/w320/ng.png"
+  },
+  {
+    "country_name": "North Macedonia",
+    "iso_code": "MKD",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "homicide_rate": 1.13519404250167,
+    "year": 2019.0,
+    "flag_url": "https://flagcdn.com/w320/mk.png"
+  },
+  {
+    "country_name": "Norway",
+    "iso_code": "NOR",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "homicide_rate": 0.536736762637051,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/no.png"
+  },
+  {
+    "country_name": "Oman",
+    "iso_code": "OMN",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "homicide_rate": 0.243337475232116,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/om.png"
+  },
+  {
+    "country_name": "Pakistan",
+    "iso_code": "PAK",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "homicide_rate": 3.97878815425614,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/pa.png"
+  },
+  {
+    "country_name": "Palau",
+    "iso_code": "PLW",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "homicide_rate": 11.1953875003499,
+    "year": 2018.0,
+    "flag_url": "https://flagcdn.com/w320/pl.png"
+  },
+  {
+    "country_name": "Panama",
+    "iso_code": "PAN",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 12.7319238281632,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/pa.png"
+  },
+  {
+    "country_name": "Papua New Guinea",
+    "iso_code": "PNG",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "homicide_rate": 9.40227756657452,
+    "year": 2010.0,
+    "flag_url": "https://flagcdn.com/w320/pn.png"
+  },
+  {
+    "country_name": "Paraguay",
+    "iso_code": "PRY",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 7.83138038595728,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/pr.png"
+  },
+  {
+    "country_name": "Peru",
+    "iso_code": "PER",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 5.71389863958169,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/pe.png"
+  },
+  {
+    "country_name": "Philippines",
+    "iso_code": "PHL",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "homicide_rate": 4.31596781848061,
+    "year": 2019.0,
+    "flag_url": "https://flagcdn.com/w320/ph.png"
+  },
+  {
+    "country_name": "Poland",
+    "iso_code": "POL",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "homicide_rate": 0.712649984922754,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/po.png"
+  },
+  {
+    "country_name": "Portugal",
+    "iso_code": "PRT",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "homicide_rate": 0.796882208078967,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/pr.png"
+  },
+  {
+    "country_name": "Puerto Rico",
+    "iso_code": "PRI",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 16.9949270448435,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/pr.png"
+  },
+  {
+    "country_name": "Qatar",
+    "iso_code": "QAT",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "homicide_rate": 0.334792159167632,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/qa.png"
+  },
+  {
+    "country_name": "Romania",
+    "iso_code": "ROU",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "homicide_rate": 1.26238064294495,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ro.png"
+  },
+  {
+    "country_name": "Russian Federation",
+    "iso_code": "RUS",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "homicide_rate": 6.79931955806077,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ru.png"
+  },
+  {
+    "country_name": "Rwanda",
+    "iso_code": "RWA",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 3.59034703252303,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/rw.png"
+  },
+  {
+    "country_name": "Saint Kitts and Nevis",
+    "iso_code": "KNA",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 29.4077489418462,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/kn.png"
+  },
+  {
+    "country_name": "Saint Lucia",
+    "iso_code": "LCA",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 38.9643281575717,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/lc.png"
+  },
+  {
+    "country_name": "Saint Martin (French part)",
+    "iso_code": "MAF",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 28.7265519519692,
+    "year": 2016.0,
+    "flag_url": "https://flagcdn.com/w320/ma.png"
+  },
+  {
+    "country_name": "Saint Vincent and the Grenadines",
+    "iso_code": "VCT",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 30.6713184833033,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/vc.png"
+  },
+  {
+    "country_name": "Samoa",
+    "iso_code": "WSM",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "homicide_rate": 6.19930281686783,
+    "year": 2018.0,
+    "flag_url": "https://flagcdn.com/w320/ws.png"
+  },
+  {
+    "country_name": "San Marino",
+    "iso_code": "SMR",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "homicide_rate": 0.0,
+    "year": 2011.0,
+    "flag_url": "https://flagcdn.com/w320/sm.png"
+  },
+  {
+    "country_name": "Sao Tome and Principe",
+    "iso_code": "STP",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 3.22503487068954,
+    "year": 2011.0,
+    "flag_url": "https://flagcdn.com/w320/st.png"
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "iso_code": "SAU",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "homicide_rate": 0.795481397709382,
+    "year": 2019.0,
+    "flag_url": "https://flagcdn.com/w320/sa.png"
+  },
+  {
+    "country_name": "Senegal",
+    "iso_code": "SEN",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 0.267518151792543,
+    "year": 2015.0,
+    "flag_url": "https://flagcdn.com/w320/se.png"
+  },
+  {
+    "country_name": "Serbia",
+    "iso_code": "SRB",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "homicide_rate": 1.05526165452556,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/sr.png"
+  },
+  {
+    "country_name": "Seychelles",
+    "iso_code": "SYC",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 4.6961364885109,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/sy.png"
+  },
+  {
+    "country_name": "Sierra Leone",
+    "iso_code": "SLE",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 2.13748640464524,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/sl.png"
+  },
+  {
+    "country_name": "Singapore",
+    "iso_code": "SGP",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "homicide_rate": 0.100992070355116,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/sg.png"
+  },
+  {
+    "country_name": "Slovakia",
+    "iso_code": "SVK",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "homicide_rate": 1.0096148374465,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/sv.png"
+  },
+  {
+    "country_name": "Slovenia",
+    "iso_code": "SVN",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "homicide_rate": 0.424646581984274,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/sv.png"
+  },
+  {
+    "country_name": "Solomon Islands",
+    "iso_code": "SLB",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "homicide_rate": 3.68216340666006,
+    "year": 2008.0,
+    "flag_url": "https://flagcdn.com/w320/sl.png"
+  },
+  {
+    "country_name": "South Africa",
+    "iso_code": "ZAF",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 41.8657281155598,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/za.png"
+  },
+  {
+    "country_name": "South Sudan",
+    "iso_code": "SSD",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 14.0539673279834,
+    "year": 2012.0,
+    "flag_url": "https://flagcdn.com/w320/ss.png"
+  },
+  {
+    "country_name": "Spain",
+    "iso_code": "ESP",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "homicide_rate": 0.610694288860715,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/es.png"
+  },
+  {
+    "country_name": "Sri Lanka",
+    "iso_code": "LKA",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "homicide_rate": 3.42730492260757,
+    "year": 2019.0,
+    "flag_url": "https://flagcdn.com/w320/lk.png"
+  },
+  {
+    "country_name": "Sudan",
+    "iso_code": "SDN",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "homicide_rate": 5.1480839388,
+    "year": 2008.0,
+    "flag_url": "https://flagcdn.com/w320/sd.png"
+  },
+  {
+    "country_name": "Suriname",
+    "iso_code": "SUR",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 5.70976917034607,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/su.png"
+  },
+  {
+    "country_name": "Sweden",
+    "iso_code": "SWE",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "homicide_rate": 1.07957344811078,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/sw.png"
+  },
+  {
+    "country_name": "Switzerland",
+    "iso_code": "CHE",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "homicide_rate": 0.483235941156359,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/ch.png"
+  },
+  {
+    "country_name": "Syrian Arab Republic",
+    "iso_code": "SYR",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "homicide_rate": 2.07274182221091,
+    "year": 2010.0,
+    "flag_url": "https://flagcdn.com/w320/sy.png"
+  },
+  {
+    "country_name": "Tajikistan",
+    "iso_code": "TJK",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "homicide_rate": 0.911643224337479,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/tj.png"
+  },
+  {
+    "country_name": "Tanzania, United Republic of",
+    "iso_code": "TZA",
+    "region": "Africa",
+    "subregion": "Sub-Saharan Africa",
+    "homicide_rate": 3.70475302959177,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/tz.png"
+  },
+  {
+    "country_name": "Thailand",
+    "iso_code": "THA",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "homicide_rate": 4.81278275098662,
+    "year": 2011.0,
+    "flag_url": "https://flagcdn.com/w320/th.png"
+  },
+  {
+    "country_name": "Timor-Leste",
+    "iso_code": "TLS",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "homicide_rate": 4.06364834348278,
+    "year": 2015.0,
+    "flag_url": "https://flagcdn.com/w320/tl.png"
+  },
+  {
+    "country_name": "Tonga",
+    "iso_code": "TON",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "homicide_rate": 0.952830143734427,
+    "year": 2019.0,
+    "flag_url": "https://flagcdn.com/w320/to.png"
+  },
+  {
+    "country_name": "Trinidad and Tobago",
+    "iso_code": "TTO",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 29.3642829379752,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/tt.png"
+  },
+  {
+    "country_name": "Tunisia",
+    "iso_code": "TUN",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "homicide_rate": 4.62105575007752,
+    "year": 2020.0,
+    "flag_url": "https://flagcdn.com/w320/tu.png"
+  },
+  {
+    "country_name": "T\u00fcrkiye",
+    "iso_code": "TUR",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "homicide_rate": 2.51959874186857,
+    "year": 2021.0,
+    "flag_url": "https://flagcdn.com/w320/tu.png"
+  },
+  {
+    "country_name": "Virgin Islands (British)",
+    "iso_code": "VGB",
+    "region": "Americas",
+    "subregion": "Latin America and the Caribbean",
+    "homicide_rate": 8.22283893514236,
+    "year": 2006.0,
+    "flag_url": "https://flagcdn.com/w320/vg.png"
+  }
+]
