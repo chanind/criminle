@@ -1,6 +1,8 @@
 # Criminle
 
-A Wordle-style game where players guess countries based on crime statistics.
+A Wordle-style game where players guess countries based on crime statistics. 
+
+Try it out: https://chanind.github.io/criminle
 
 ## Setup
 
